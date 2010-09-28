@@ -1,0 +1,153 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* DIYComicAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1057, 1040}}";
+			sepNavSelRange = "{695, 0}";
+			sepNavVisRange = "{143, 1442}";
+		};
+	};
+	1D3623250D0F684500981E51 /* DIYComicAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1057, 3003}}";
+			sepNavSelRange = "{5871, 0}";
+			sepNavVisRange = "{4990, 2111}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Zine-O-Tron */ = {
+		activeExec = 0;
+		executables = (
+			2E75D75F124955DA00B1A121 /* Zine-O-Tron */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2E75D75F124955DA00B1A121 /* Zine-O-Tron */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Zine-O-Tron */;
+		codeSenseManager = 2E75D78B124955DC00B1A121 /* Code sense */;
+		executables = (
+			2E75D75F124955DA00B1A121 /* Zine-O-Tron */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					879,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306799603;
+			PBXWorkspaceStateSaveDate = 306799603;
+		};
+		perUserProjectItems = {
+			2E178D401249650F00828C18 /* PBXTextBookmark */ = 2E178D401249650F00828C18 /* PBXTextBookmark */;
+			2E178D411249650F00828C18 /* PBXTextBookmark */ = 2E178D411249650F00828C18 /* PBXTextBookmark */;
+			2E178D421249650F00828C18 /* PBXTextBookmark */ = 2E178D421249650F00828C18 /* PBXTextBookmark */;
+			2E75D79412495B0000B1A121 /* PBXTextBookmark */ = 2E75D79412495B0000B1A121 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2E75D78A124955DC00B1A121 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2E178D401249650F00828C18 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* DIYComicAppDelegate.h */;
+		name = "DIYComicAppDelegate.h: 24";
+		rLen = 0;
+		rLoc = 695;
+		rType = 0;
+		vrLen = 1442;
+		vrLoc = 143;
+	};
+	2E178D411249650F00828C18 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DIYComicAppDelegate.m */;
+		rLen = 3;
+		rLoc = 5802;
+		rType = 0;
+	};
+	2E178D421249650F00828C18 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DIYComicAppDelegate.m */;
+		name = "DIYComicAppDelegate.m: 143";
+		rLen = 0;
+		rLoc = 5871;
+		rType = 0;
+		vrLen = 2111;
+		vrLoc = 4990;
+	};
+	2E75D75F124955DA00B1A121 /* Zine-O-Tron */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Zine-O-Tron";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2E75D78A124955DC00B1A121 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2E75D78B124955DC00B1A121 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2E75D79412495B0000B1A121 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* DIYComic_Prefix.pch */;
+		name = "DIYComic_Prefix.pch: 12";
+		rLen = 0;
+		rLoc = 188;
+		rType = 0;
+		vrLen = 756;
+		vrLoc = 0;
+	};
+	32CA4F630368D1EE00C91783 /* DIYComic_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1116, 544}}";
+			sepNavSelRange = "{188, 0}";
+			sepNavVisRange = "{0, 756}";
+		};
+	};
+}
